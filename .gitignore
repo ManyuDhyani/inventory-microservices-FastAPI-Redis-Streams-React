@@ -1,3 +1,6 @@
 /env
 /__pycache__
-config.json
+/inventory/__pycache__
+/payment/__pycache__
+/payment/config.json
+/inventory/config.json
